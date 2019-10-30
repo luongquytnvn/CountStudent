@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectId" id="1Sutl85xjKYLdurJBf15PzKp40X" />
+  <component name="RunManager">
+    <configuration name="CountStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountStudent" />
+      <module name="CountStudent" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CountStudent" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>
